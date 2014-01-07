@@ -233,7 +233,7 @@ div.container-left {
 	border-bottom-right-radius: 4px;
 }
 div.container-center {
-	margin:0 220px;
+	margin:0 205px;
 }
 div.container-right {
 	float: right;
@@ -329,7 +329,8 @@ a.buttons:hover {
 
 /* Center */
 section {
-	width: 800px;
+	width: 75%;
+	max-width: 800px;
 	margin:0 auto;
 	padding-bottom: 50px;
 }
