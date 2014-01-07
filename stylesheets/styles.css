@@ -27,7 +27,7 @@ time, mark, audio, video {
 
 body {
 	position: relative;
-	padding: 10px 50px 0 0;
+	padding-top: 10px;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #232323;
@@ -323,12 +323,12 @@ a.buttons:hover {
 
 /* Center */
 .wrapper {
-	width: 1160px;
+	width: 100%;
 }
 
 section {
-	width: 850px;
-	float: right;
+	width: 800px;
+	margin: 0 auto;
 	padding-bottom: 50px;
 }
 
